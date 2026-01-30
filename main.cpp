@@ -1,7 +1,7 @@
 /**
  * main.cpp
  * Entry point. Initializes threads and provides the CLI Menu.
- * OS SIMULATOR BY ARSAL NAVEED F2023266XXX
+ * OS SIMULATOR BY ARSAL NAVEED F2023266900
  */
 
 #include "os_sim.h"
@@ -41,7 +41,7 @@ void printHeader() {
   | |_| | ___) |  \___ \  | | | |  | | |_| | |___ / ___ \| || |_| |  _ < 
    \___/ |____/  |____/  |___||_|  |_|\___/|_____/_/   \_\_| \___/|_| \_\
   ========================================================================
-    DEVELOPER: ARSAL NAVEED  //  ID: F2023266XXX  //  V: 2.0.4
+    DEVELOPER: ARSAL NAVEED  //  ID: F2023266900  //  V: 2.0.4
     ========================================================================
     )" << "\033[0m\n";
 }
